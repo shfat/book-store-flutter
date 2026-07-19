@@ -124,20 +124,20 @@ Supported operations:
 ### 📸 App Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_01.png" width="250"/>
-  <img src="assets/screenshots/screenshot_02.png" width="250"/>
-  <img src="assets/screenshots/screenshot_03.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_01.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_02.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_03.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_04.png" width="250"/>
-  <img src="assets/screenshots/screenshot_05.png" width="250"/>
-  <img src="assets/screenshots/screenshot_06.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_04.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_05.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_06.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshot_07.png" width="250"/>
-  <img src="assets/screenshots/screenshot_08.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_07.png" width="250"/>
+  <img src="assets/screenshots/Screenshot_08.png" width="250"/>
 </p>
 
 ---
