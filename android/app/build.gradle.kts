@@ -6,8 +6,8 @@ plugins {
 
 android {
     namespace = "com.example.book_store_flutter"
-    compileSdk = 36  // ← الان که 36 رو نصب کردید، می‌تونید از 36 استفاده کنید
-    buildToolsVersion = "36.0.0"  // ← دقیقاً همون چیزی که نصب کردید
+    compileSdk = 36 
+    buildToolsVersion = "36.0.0" 
     ndkVersion = "27.3.13750724"
 
     compileOptions {
